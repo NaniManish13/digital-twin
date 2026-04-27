@@ -1,0 +1,3 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,Medic1Scenario4,SubstanceBolusData,APPLIED,Action accepted by backend,"{""admin_route"": ""Intravenous"", ""concentration"": 1000.0, ""concentration_unit"": ""ug/mL"", ""dose"": 70.0, ""dose_unit"": ""mL"", ""rate"": null, ""rate_unit"": null, ""substance"": ""Succinylcholine""}"
+90,Medic1Scenario4,SerializeStateData,APPLIED,Action accepted by backend,"{""Filename"": ""./states/Medic1/Scenario4FemaleSuccs@60s.xml"", ""Type"": ""Save""}"

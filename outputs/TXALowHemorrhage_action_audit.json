@@ -1,0 +1,50 @@
+[
+  {
+    "time_s": 0,
+    "scenario_name": "TXALowHemorrhage",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "RightLeg",
+      "rate": 5.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 0,
+    "scenario_name": "TXALowHemorrhage",
+    "action_type": "SubstanceInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "TranexamicAcid",
+      "admin_route": null,
+      "dose": null,
+      "dose_unit": null,
+      "concentration": 0.02,
+      "concentration_unit": "g/mL",
+      "rate": 0.111,
+      "rate_unit": "mL/s"
+    }
+  },
+  {
+    "time_s": 900,
+    "scenario_name": "TXALowHemorrhage",
+    "action_type": "SubstanceInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "TranexamicAcid",
+      "admin_route": null,
+      "dose": null,
+      "dose_unit": null,
+      "concentration": 0.0,
+      "concentration_unit": "g/mL",
+      "rate": 0.0,
+      "rate_unit": "mL/s"
+    }
+  }
+]

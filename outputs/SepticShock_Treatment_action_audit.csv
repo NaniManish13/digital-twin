@@ -1,0 +1,11 @@
+time_s,scenario_name,action_type,status,detail,payload
+0,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+1800,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+7200,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 1500.0, ""compound"": ""SalineSlowDrip"", ""rate"": 75.0, ""rate_unit"": ""mL/hr""}"
+7200,SepticShock_Treatment,SubstanceInfusionData,APPLIED,Action accepted by backend,"{""admin_route"": null, ""concentration"": 14.0, ""concentration_unit"": ""ug/mL"", ""dose"": null, ""dose_unit"": null, ""rate"": 1.0, ""rate_unit"": ""mL/min"", ""substance"": ""Norepinephrine""}"
+7200,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 20.0, ""compound"": ""PiperacillinTazobactam"", ""rate"": 0.667, ""rate_unit"": ""mL/min""}"
+10800,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 250.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+14400,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 250.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+18000,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 250.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+21600,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 250.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"
+25200,SepticShock_Treatment,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 250.0, ""compound"": ""Saline"", ""rate"": 50.0, ""rate_unit"": ""mL/min""}"

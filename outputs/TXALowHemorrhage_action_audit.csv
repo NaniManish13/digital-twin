@@ -1,0 +1,4 @@
+time_s,scenario_name,action_type,status,detail,payload
+0,TXALowHemorrhage,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""RightLeg"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 5.0, ""rate_unit"": ""mL/min""}"
+0,TXALowHemorrhage,SubstanceInfusionData,APPLIED,Action accepted by backend,"{""admin_route"": null, ""concentration"": 0.02, ""concentration_unit"": ""g/mL"", ""dose"": null, ""dose_unit"": null, ""rate"": 0.111, ""rate_unit"": ""mL/s"", ""substance"": ""TranexamicAcid""}"
+900,TXALowHemorrhage,SubstanceInfusionData,APPLIED,Action accepted by backend,"{""admin_route"": null, ""concentration"": 0.0, ""concentration_unit"": ""g/mL"", ""dose"": null, ""dose_unit"": null, ""rate"": 0.0, ""rate_unit"": ""mL/s"", ""substance"": ""TranexamicAcid""}"

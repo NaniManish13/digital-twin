@@ -1,0 +1,39 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "Medic1Scenario3",
+    "action_type": "AsthmaAttackData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 1.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 30,
+    "scenario_name": "Medic1Scenario3",
+    "action_type": "AirwayObstructionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 180,
+    "scenario_name": "Medic1Scenario3",
+    "action_type": "SerializeStateData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "Save",
+      "Filename": "./states/Medic1/Scenario3FemaleAsthma1p0@120s.xml"
+    }
+  }
+]

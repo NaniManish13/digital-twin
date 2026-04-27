@@ -1,0 +1,15 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "EffusionConditionPlus",
+    "action_type": "PericardialEffusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "EffusionRate": {
+        "value": 0.1,
+        "unit": "mL/s"
+      }
+    }
+  }
+]

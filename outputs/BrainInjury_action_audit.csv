@@ -1,0 +1,6 @@
+time_s,scenario_name,action_type,status,detail,payload
+20,BrainInjury,BrainInjuryData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.2}, ""Type"": ""Diffuse""}"
+620,BrainInjury,BrainInjuryData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.0}, ""Type"": ""Diffuse""}"
+920,BrainInjury,BrainInjuryData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.75}, ""Type"": ""LeftFocal""}"
+1720,BrainInjury,BrainInjuryData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.0}, ""Type"": ""Diffuse""}"
+2020,BrainInjury,BrainInjuryData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 1.0}, ""Type"": ""RightFocal""}"

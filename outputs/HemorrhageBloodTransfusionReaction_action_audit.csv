@@ -1,0 +1,4 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,HemorrhageBloodTransfusionReaction,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Aorta"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 175.0, ""rate_unit"": ""mL/min""}"
+90,HemorrhageBloodTransfusionReaction,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Aorta"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"
+150,HemorrhageBloodTransfusionReaction,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Blood_BNegative"", ""rate"": 100.0, ""rate_unit"": ""mL/min""}"

@@ -1,0 +1,12 @@
+time_s,scenario_name,action_type,status,detail,payload
+3600,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+7200,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+10800,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+14400,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Calcium"": {""unit"": ""g"", ""value"": 0.5}, ""Carbohydrate"": {""unit"": ""g"", ""value"": 130.0}, ""Fat"": {""unit"": ""g"", ""value"": 27.0}, ""Name"": ""Food"", ""Protein"": {""unit"": ""g"", ""value"": 20.0}, ""Sodium"": {""unit"": ""g"", ""value"": 0.75}, ""Water"": {""unit"": ""L"", ""value"": 0.5}}}"
+18000,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+21600,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+25200,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+28800,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+32400,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Calcium"": {""unit"": ""g"", ""value"": 0.5}, ""Carbohydrate"": {""unit"": ""g"", ""value"": 130.0}, ""Fat"": {""unit"": ""g"", ""value"": 27.0}, ""Name"": ""Food"", ""Protein"": {""unit"": ""g"", ""value"": 20.0}, ""Sodium"": {""unit"": ""g"", ""value"": 0.75}, ""Water"": {""unit"": ""L"", ""value"": 0.5}}}"
+36000,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+39600,SepticShock,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"

@@ -1,0 +1,103 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 150.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 30,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "RightLeg",
+      "rate": 125.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 530,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 40.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 590,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "RightLeg",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 830,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 1070,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "SubstanceBolusData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "Morphine",
+      "admin_route": "Intravenous",
+      "dose": 20.0,
+      "dose_unit": "mL",
+      "concentration": 4250.0,
+      "concentration_unit": "ug/mL",
+      "rate": null,
+      "rate_unit": null
+    }
+  },
+  {
+    "time_s": 1080,
+    "scenario_name": "HemorrhageCM2",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 500.0,
+      "bag_unit": "mL",
+      "rate": 100.0,
+      "rate_unit": "mL/min"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "time_s": 20,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 220,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 620,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.8,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 820,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 1220,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 1.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 1420,
+    "scenario_name": "AcuteStress",
+    "action_type": "AcuteStressData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  }
+]

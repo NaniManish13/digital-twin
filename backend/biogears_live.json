@@ -1,0 +1,11 @@
+{
+  "bpm": 101.35834118818056,
+  "heart_rate_bpm": 101.35834118818056,
+  "systolic_bp_mmhg": 67.58937938301058,
+  "diastolic_bp_mmhg": 45.875333336900965,
+  "cardiac_output_l_min": 2.751202953997993,
+  "spo2_fraction": 0.9420915933237036,
+  "time_s": 85.62831468582158,
+  "source": "patient_file: HemorrhageBloodTransfusionReaction.xml \u2192 {uri:/mil/tatrc/physiology/datamodel}Scenario",
+  "detected_condition": "Hemorrhage"
+}

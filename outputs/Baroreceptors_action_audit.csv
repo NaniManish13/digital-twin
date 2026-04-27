@@ -1,0 +1,3 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,Baroreceptors,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""VenaCava"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 1250.0, ""rate_unit"": ""mL/min""}"
+60,Baroreceptors,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""VenaCava"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"

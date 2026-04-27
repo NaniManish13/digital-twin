@@ -1,0 +1,1202 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "CardiacArrestData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "State": "On"
+    }
+  },
+  {
+    "time_s": 40,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 41,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 42,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 43,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 44,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 45,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 46,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 47,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 48,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 49,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 50,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 51,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 52,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 53,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 54,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 55,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 56,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 57,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 58,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 59,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 60,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 61,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 62,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 63,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 64,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 65,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 66,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 67,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 68,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 69,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 70,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 71,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 72,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 73,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 74,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 75,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 76,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 77,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 78,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 79,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 80,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 81,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 82,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 83,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 84,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 85,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 86,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 87,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 88,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 89,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 90,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 91,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 92,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 93,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 94,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 95,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 96,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 97,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 98,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 99,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 100,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 101,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 102,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 103,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 104,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 105,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 106,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 107,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 108,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  },
+  {
+    "time_s": 109,
+    "scenario_name": "CPRForceScaleMax",
+    "action_type": "ChestCompressionForceScaleData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "ForceScale": {
+        "value": 1.0,
+        "unit": null
+      },
+      "ForcePeriod": {
+        "value": 0.2,
+        "unit": "s"
+      }
+    }
+  }
+]

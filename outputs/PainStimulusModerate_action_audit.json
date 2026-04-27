@@ -1,0 +1,30 @@
+[
+  {
+    "time_s": 1,
+    "scenario_name": "PainStimulusModerate",
+    "action_type": "PainStimulusData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Location": "Leg",
+      "Severity": {
+        "value": 0.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 61,
+    "scenario_name": "PainStimulusModerate",
+    "action_type": "PainStimulusData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Location": "Leg",
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  }
+]

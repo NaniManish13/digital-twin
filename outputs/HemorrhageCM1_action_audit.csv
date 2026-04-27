@@ -1,0 +1,7 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,HemorrhageCM1,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 150.0, ""rate_unit"": ""mL/min""}"
+30,HemorrhageCM1,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""RightLeg"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 125.0, ""rate_unit"": ""mL/min""}"
+530,HemorrhageCM1,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 40.0, ""rate_unit"": ""mL/min""}"
+590,HemorrhageCM1,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""RightLeg"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"
+830,HemorrhageCM1,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"
+1070,HemorrhageCM1,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Saline"", ""rate"": 100.0, ""rate_unit"": ""mL/min""}"

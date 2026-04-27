@@ -1,0 +1,86 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 150.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 30,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "RightLeg",
+      "rate": 125.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 530,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 40.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 590,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "RightLeg",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 830,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Spleen",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 1070,
+    "scenario_name": "HemorrhageCM1",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 500.0,
+      "bag_unit": "mL",
+      "rate": 100.0,
+      "rate_unit": "mL/min"
+    }
+  }
+]

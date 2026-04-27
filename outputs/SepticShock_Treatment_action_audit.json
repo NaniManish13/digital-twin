@@ -1,0 +1,145 @@
+[
+  {
+    "time_s": 0,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 500.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 1800,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 500.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 7200,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "SalineSlowDrip",
+      "bag_volume": 1500.0,
+      "bag_unit": "mL",
+      "rate": 75.0,
+      "rate_unit": "mL/hr"
+    }
+  },
+  {
+    "time_s": 7200,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "Norepinephrine",
+      "admin_route": null,
+      "dose": null,
+      "dose_unit": null,
+      "concentration": 14.0,
+      "concentration_unit": "ug/mL",
+      "rate": 1.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 7200,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "PiperacillinTazobactam",
+      "bag_volume": 20.0,
+      "bag_unit": "mL",
+      "rate": 0.667,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 10800,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 250.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 14400,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 250.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 18000,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 250.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 21600,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 250.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 25200,
+    "scenario_name": "SepticShock_Treatment",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Saline",
+      "bag_volume": 250.0,
+      "bag_unit": "mL",
+      "rate": 50.0,
+      "rate_unit": "mL/min"
+    }
+  }
+]

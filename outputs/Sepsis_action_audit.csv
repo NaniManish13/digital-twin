@@ -1,0 +1,13 @@
+time_s,scenario_name,action_type,status,detail,payload
+0,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Calcium"": {""unit"": ""g"", ""value"": 0.5}, ""Carbohydrate"": {""unit"": ""g"", ""value"": 130.0}, ""Fat"": {""unit"": ""g"", ""value"": 27.0}, ""Name"": ""Food"", ""Protein"": {""unit"": ""g"", ""value"": 20.0}, ""Sodium"": {""unit"": ""g"", ""value"": 0.75}, ""Water"": {""unit"": ""L"", ""value"": 0.5}}}"
+3600,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+7200,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+10800,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+14400,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Calcium"": {""unit"": ""g"", ""value"": 0.5}, ""Carbohydrate"": {""unit"": ""g"", ""value"": 130.0}, ""Fat"": {""unit"": ""g"", ""value"": 27.0}, ""Name"": ""Food"", ""Protein"": {""unit"": ""g"", ""value"": 20.0}, ""Sodium"": {""unit"": ""g"", ""value"": 0.75}, ""Water"": {""unit"": ""L"", ""value"": 0.5}}}"
+18000,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+21600,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+25200,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+28800,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+32400,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Calcium"": {""unit"": ""g"", ""value"": 0.5}, ""Carbohydrate"": {""unit"": ""g"", ""value"": 130.0}, ""Fat"": {""unit"": ""g"", ""value"": 27.0}, ""Name"": ""Food"", ""Protein"": {""unit"": ""g"", ""value"": 20.0}, ""Sodium"": {""unit"": ""g"", ""value"": 0.75}, ""Water"": {""unit"": ""L"", ""value"": 0.5}}}"
+36000,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"
+39600,Sepsis,ConsumeNutrientsData,APPLIED,Action accepted by backend,"{""Nutrition"": {""Name"": ""Agua"", ""Water"": {""unit"": ""L"", ""value"": 0.15}}}"

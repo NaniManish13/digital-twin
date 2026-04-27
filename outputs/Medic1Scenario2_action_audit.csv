@@ -1,0 +1,3 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,Medic1Scenario2,TensionPneumothoraxData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 1.0}, ""Side"": ""Left"", ""Type"": ""Closed""}"
+240,Medic1Scenario2,SerializeStateData,APPLIED,Action accepted by backend,"{""Filename"": ""./states/Medic1/Scenario2MaleTensionPneumo1p0@240s.xml"", ""Type"": ""Save""}"

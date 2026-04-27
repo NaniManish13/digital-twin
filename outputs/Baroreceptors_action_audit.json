@@ -1,0 +1,30 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "Baroreceptors",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "VenaCava",
+      "rate": 1250.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 60,
+    "scenario_name": "Baroreceptors",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "VenaCava",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  }
+]

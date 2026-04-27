@@ -1,0 +1,47 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "Medic1Scenario1",
+    "action_type": "SubstanceInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "Fentanyl",
+      "admin_route": null,
+      "dose": null,
+      "dose_unit": null,
+      "concentration": 655.0,
+      "concentration_unit": "ug/mL",
+      "rate": 2.0,
+      "rate_unit": "mL/min"
+    }
+  },
+  {
+    "time_s": 120,
+    "scenario_name": "Medic1Scenario1",
+    "action_type": "SubstanceInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "Fentanyl",
+      "admin_route": null,
+      "dose": null,
+      "dose_unit": null,
+      "concentration": 0.0,
+      "concentration_unit": "ug/mL",
+      "rate": 0.0,
+      "rate_unit": "mL/s"
+    }
+  },
+  {
+    "time_s": 180,
+    "scenario_name": "Medic1Scenario1",
+    "action_type": "SerializeStateData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "Save",
+      "Filename": "./states/Medic1/Scenario1FemaleBVM@155s.xml"
+    }
+  }
+]

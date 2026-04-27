@@ -1,0 +1,12 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "CPRForce",
+    "action_type": "CardiacArrestData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "State": "On"
+    }
+  }
+]

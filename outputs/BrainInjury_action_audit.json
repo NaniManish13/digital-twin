@@ -1,0 +1,72 @@
+[
+  {
+    "time_s": 20,
+    "scenario_name": "BrainInjury",
+    "action_type": "BrainInjuryData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "Diffuse",
+      "Severity": {
+        "value": 0.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 620,
+    "scenario_name": "BrainInjury",
+    "action_type": "BrainInjuryData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "Diffuse",
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 920,
+    "scenario_name": "BrainInjury",
+    "action_type": "BrainInjuryData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "LeftFocal",
+      "Severity": {
+        "value": 0.75,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 1720,
+    "scenario_name": "BrainInjury",
+    "action_type": "BrainInjuryData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "Diffuse",
+      "Severity": {
+        "value": 0.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "time_s": 2020,
+    "scenario_name": "BrainInjury",
+    "action_type": "BrainInjuryData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "Type": "RightFocal",
+      "Severity": {
+        "value": 1.0,
+        "unit": null
+      }
+    }
+  }
+]

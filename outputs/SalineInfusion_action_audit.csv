@@ -1,0 +1,2 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,SalineInfusion,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 2000.0, ""compound"": ""Saline"", ""rate"": 2000.0, ""rate_unit"": ""mL/hr""}"

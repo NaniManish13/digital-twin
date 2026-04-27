@@ -1,0 +1,2 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,CPRForce,CardiacArrestData,APPLIED,Action accepted by backend,"{""State"": ""On""}"

@@ -1,0 +1,4 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,Medic1Scenario1,SubstanceInfusionData,APPLIED,Action accepted by backend,"{""admin_route"": null, ""concentration"": 655.0, ""concentration_unit"": ""ug/mL"", ""dose"": null, ""dose_unit"": null, ""rate"": 2.0, ""rate_unit"": ""mL/min"", ""substance"": ""Fentanyl""}"
+120,Medic1Scenario1,SubstanceInfusionData,APPLIED,Action accepted by backend,"{""admin_route"": null, ""concentration"": 0.0, ""concentration_unit"": ""ug/mL"", ""dose"": null, ""dose_unit"": null, ""rate"": 0.0, ""rate_unit"": ""mL/s"", ""substance"": ""Fentanyl""}"
+180,Medic1Scenario1,SerializeStateData,APPLIED,Action accepted by backend,"{""Filename"": ""./states/Medic1/Scenario1FemaleBVM@155s.xml"", ""Type"": ""Save""}"

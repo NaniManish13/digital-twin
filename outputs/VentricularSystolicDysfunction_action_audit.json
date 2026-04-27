@@ -1,0 +1,19 @@
+[
+  {
+    "time_s": 1200,
+    "scenario_name": "VentricularSystolicDysfunction",
+    "action_type": "SubstanceBolusData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "substance": "Furosemide",
+      "admin_route": "Intravenous",
+      "dose": 10.0,
+      "dose_unit": "mL",
+      "concentration": 4000.0,
+      "concentration_unit": "ug/mL",
+      "rate": null,
+      "rate_unit": null
+    }
+  }
+]

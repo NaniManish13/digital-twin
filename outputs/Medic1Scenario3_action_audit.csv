@@ -1,0 +1,4 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,Medic1Scenario3,AsthmaAttackData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 1.0}}"
+30,Medic1Scenario3,AirwayObstructionData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.4}}"
+180,Medic1Scenario3,SerializeStateData,APPLIED,Action accepted by backend,"{""Filename"": ""./states/Medic1/Scenario3FemaleAsthma1p0@120s.xml"", ""Type"": ""Save""}"

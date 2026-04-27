@@ -1,0 +1,3 @@
+time_s,scenario_name,action_type,status,detail,payload
+1,PainStimulusModerate,PainStimulusData,APPLIED,Action accepted by backend,"{""Location"": ""Leg"", ""Severity"": {""unit"": null, ""value"": 0.5}}"
+61,PainStimulusModerate,PainStimulusData,APPLIED,Action accepted by backend,"{""Location"": ""Leg"", ""Severity"": {""unit"": null, ""value"": 0.0}}"

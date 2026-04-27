@@ -1,0 +1,8 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,HemorrhageCM2,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 150.0, ""rate_unit"": ""mL/min""}"
+30,HemorrhageCM2,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""RightLeg"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 125.0, ""rate_unit"": ""mL/min""}"
+530,HemorrhageCM2,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 40.0, ""rate_unit"": ""mL/min""}"
+590,HemorrhageCM2,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""RightLeg"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"
+830,HemorrhageCM2,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Spleen"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"
+1070,HemorrhageCM2,SubstanceBolusData,APPLIED,Action accepted by backend,"{""admin_route"": ""Intravenous"", ""concentration"": 4250.0, ""concentration_unit"": ""ug/mL"", ""dose"": 20.0, ""dose_unit"": ""mL"", ""rate"": null, ""rate_unit"": null, ""substance"": ""Morphine""}"
+1080,HemorrhageCM2,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Saline"", ""rate"": 100.0, ""rate_unit"": ""mL/min""}"

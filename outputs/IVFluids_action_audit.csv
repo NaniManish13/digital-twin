@@ -1,0 +1,2 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,IVFluids,SubstanceCompoundInfusionData,APPLIED,Action accepted by backend,"{""bag_unit"": ""mL"", ""bag_volume"": 500.0, ""compound"": ""Saline"", ""rate"": 100.0, ""rate_unit"": ""mL/min""}"

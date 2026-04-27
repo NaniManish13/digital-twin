@@ -1,0 +1,3 @@
+time_s,scenario_name,action_type,status,detail,payload
+30,HemorrhageClass2NoFluid,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Aorta"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 100.0, ""rate_unit"": ""mL/min""}"
+930,HemorrhageClass2NoFluid,HemorrhageData,APPLIED,Action accepted by backend,"{""compartment"": ""Aorta"", ""duration"": null, ""duration_unit"": ""s"", ""rate"": 0.0, ""rate_unit"": ""mL/min""}"

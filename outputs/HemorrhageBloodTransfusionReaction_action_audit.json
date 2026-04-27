@@ -1,0 +1,44 @@
+[
+  {
+    "time_s": 30,
+    "scenario_name": "HemorrhageBloodTransfusionReaction",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Aorta",
+      "rate": 175.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 90,
+    "scenario_name": "HemorrhageBloodTransfusionReaction",
+    "action_type": "HemorrhageData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compartment": "Aorta",
+      "rate": 0.0,
+      "rate_unit": "mL/min",
+      "duration": null,
+      "duration_unit": "s"
+    }
+  },
+  {
+    "time_s": 150,
+    "scenario_name": "HemorrhageBloodTransfusionReaction",
+    "action_type": "SubstanceCompoundInfusionData",
+    "status": "APPLIED",
+    "detail": "Action accepted by backend",
+    "payload": {
+      "compound": "Blood_BNegative",
+      "bag_volume": 500.0,
+      "bag_unit": "mL",
+      "rate": 100.0,
+      "rate_unit": "mL/min"
+    }
+  }
+]

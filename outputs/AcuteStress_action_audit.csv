@@ -1,0 +1,7 @@
+time_s,scenario_name,action_type,status,detail,payload
+20,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.4}}"
+220,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.0}}"
+620,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.8}}"
+820,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.0}}"
+1220,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 1.0}}"
+1420,AcuteStress,AcuteStressData,APPLIED,Action accepted by backend,"{""Severity"": {""unit"": null, ""value"": 0.0}}"
